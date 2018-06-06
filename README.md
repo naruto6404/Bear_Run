@@ -1,6 +1,6 @@
 # 奔跑吧棕熊
 
-![alt text](https://i.imgur.com/T3GogZo.png)
+![alt text](https://i.imgur.com/BbuyNdk.jpg)
 
 這個是使用Unity配合Unity中的ScrollRect去做出手機搖桿，來操控棕熊<br>
 之後應該會多加其他的功能，比如說吃蜂蜜，攻擊其他動物等
